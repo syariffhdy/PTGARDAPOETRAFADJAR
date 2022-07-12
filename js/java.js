@@ -25,3 +25,9 @@
            $('.navbar-collapse').toggleClass('is-active');
          $('.navbar-collapse').collapse('hide');
          });
+
+         $('.carousel').carousel({
+          interval: 1000 
+        });
+
+        
